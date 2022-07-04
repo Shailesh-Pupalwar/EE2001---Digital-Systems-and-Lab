@@ -10,7 +10,7 @@
 ![Connections Top view](https://user-images.githubusercontent.com/108218357/177095667-1ec36349-3c0a-4adc-a827-2c3ccc361334.jpeg)
 
 #### 1.Binary Addar 74LS83
-![Binary Adder](https://user-images.githubusercontent.com/108218357/177093791-f702e7f0-e267-4200-b6e2-89f10873a36a.jpeg)
+![Connections Top view](https://user-images.githubusercontent.com/108218357/177095667-1ec36349-3c0a-4adc-a827-2c3ccc361334.jpeg)
 
 #### 2.Comparator 74LS85
 ![Comparator](https://user-images.githubusercontent.com/108218357/177093984-869a871e-d5d3-4dc7-8640-f1adc5b176d8.jpeg)
