@@ -6,9 +6,6 @@
 ![Top View of Project](https://user-images.githubusercontent.com/108218357/177095064-cc9fb1bd-dd21-431e-8eb5-64bcad8cd480.jpeg)
 • This project converts and Display 4 bit number in decimal, using some compononents like
 
-### Connections Top View
-![Connections Top view](https://user-images.githubusercontent.com/108218357/177095667-1ec36349-3c0a-4adc-a827-2c3ccc361334.jpeg)
-
 #### 1.Binary Addar 74LS83
 ![Connections Top view](https://user-images.githubusercontent.com/108218357/177095667-1ec36349-3c0a-4adc-a827-2c3ccc361334.jpeg)
 
